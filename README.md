@@ -1,2 +1,2 @@
 # Matplotlib-Challenge
-This is my repo for the Matplotlib challenge homework
+This is my repo for the Matplotlib challenge homework.  In this repo, the instructions for this assignment can be found inside the Instructions folder. You can find my jupyter notebook containing the Pymaceutical analysis in the folder calls Pymaceuticals.  Inside that folder there are the 3 things: a folder calls .jpynb_checkpoints that contains the checkpoints of my main jupyter notebook, a data folder that contains the 2 csv files that I pull data from them for my analysis, and the final item is the jupyter notebook calls pymaceuticals_analysis.jpynb that contains my analysis and codes.  
